@@ -155,7 +155,6 @@ const UI = {
         UI.initSetting('repeaterID', '');
         UI.initSetting('reconnect', true);
         UI.initSetting('reconnect_delay', 20000);
-        UI.initSetting('scale', true);
 
         UI.setupSettingLabels();
     },
